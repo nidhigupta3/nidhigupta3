@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **business intelligence projects**
 - 🌱 I’m currently learning **Python, R and Tableau**
-- 👯 I’m looking to collaborate on **data analytics projects or social media analytics projects** 
+- 👯 I’m looking to collaborate on **business intelligence projects or social media analytics projects** 
 - 💬 Ask me about **social media analytics, digital content strategy, AI tools, and personal development**
 - 📫 How to reach me: **nidhi.gupta3@yahoo.in**
 - 😄 Pronouns: **She/Her**
